@@ -27,7 +27,7 @@ layout: home
   </div>
 </main>
 
-
+<div markdown="1">
 # Getting to AIslands: Bute
 
 The conference will be held in Rothesay on the Isle of Bute (at Rothesay Discovery Centre; Victoria St, Rothesay, Isle of Bute PA20 0AP, United Kingdom).
@@ -59,3 +59,4 @@ You do not usually need to book the ferry in advance as a foot passenger.
 Glasgow is served by most intercity bus services in the UK; the vast majority of buses arrive at Buchanan Bus Station, which is a 15-20 minute walk away from Glasgow Central Station.
 
 From Glasgow it is easiest to follow the "By Train" instructions to reach Bute.
+</div>
