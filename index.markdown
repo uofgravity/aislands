@@ -18,10 +18,6 @@ layout: home
 
   The AIslands meetings are discussion meetings intended to provide an environment which will nurture collaboration and network building.
 
-  </div>
-</main>
-
-
 # Getting to AIslands: Bute
 
 The conference will be held in Rothesay on the Isle of Bute (at Rothesay Discovery Centre; Victoria St, Rothesay, Isle of Bute PA20 0AP, United Kingdom).
@@ -54,3 +50,12 @@ Glasgow is served by most intercity bus services in the UK; the vast majority of
 
 From Glasgow it is easiest to follow the "By Train" instructions to reach Bute.
 
+# Accommodation
+
+As this meeting is held on a small island, we expect that accommodation will be at a premium, and we advise you to book as soon as possible.
+
+There are plenty of accommodation options in Rothesay itself, but please take care if booking further afield as public transport is limited.
+We've made a WhatsApp group to help coordinate accommodation sharing, whcih was linked in your invitation to register.
+
+Additionally, please take special care that you're booking accommodation on the island; as it's not far from the mainland some websites will also show rooms in Wemyss Bay. 
+This might be workable for this meeting, but do remember that you'll need to "commute" across on the ferry.
