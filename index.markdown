@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
@@ -28,35 +25,18 @@ layout: home
 </main>
 
 <div markdown="1">
-# Getting to AIslands: Bute
 
-The conference will be held in Rothesay on the Isle of Bute (at Rothesay Discovery Centre; Victoria St, Rothesay, Isle of Bute PA20 0AP, United Kingdom).
-
-## By Air
-
-The City of Glasgow is served by two international airports.
-
-Glasgow International Airport is located around 10km from the City Centre, however it is possible to reach Bute by taking a taxi from Glasgow International to **Paisley Gilmour Street** railway station, and then following the instructions for reaching Rothesay from Glasgow Central station (Gilmour Street is one stop along the line).
-
-Glasgow Prestwick Airport is located around 40km from Glasgow, however it is served by a direct rail connection to both **Glasgow Central Station** and **Paisley Gilmour Street**.
-Once at Glasgow Central or Gilmour Street you should follow the instructions below to travel to Rothesay by train.
-
-It is also possible to access the conference by travelling to Manchester Airport and taking a train from Manchester Airport to **Glasgow Central Station**, or from Edinburgh Airport and taking a bus to **Glasgow Buchanan Bus Station**. This is a 15-20 minute walk from **Glasgow Central Station**.
-Once at Glasgow Central or Gilmour Street you should follow the instructions below to travel to Rothesay by train.
-
-## By Train
-
-Most trains arriving from South of Glasgow via the West Coast Mainline will arrive at **Glasgow Central Station**, however some trains may arrive at **Glasgow Queen Street** which is a 10-15 minute walk from Central Station.
-
-From Central Station you should catch a train to Wemyss Bay which will meet the ferry.
-A full timetable [can be found here](https://assets.calmac.co.uk/media/su0phlfn/stt-table-03-wem-rot.pdf) for trains and the ferry times. 
-It is possible to purchase a ticket from Scotrail which will also allow you to travel on the ferry. 
-This can be done in advance from the Scotrail website, choosing **Rothesay** as the destination, or from ticket offices and ticket vending machines at Paisley or Glasgow.
-You do not usually need to book the ferry in advance as a foot passenger.
-
-## By Bus
-
-Glasgow is served by most intercity bus services in the UK; the vast majority of buses arrive at Buchanan Bus Station, which is a 15-20 minute walk away from Glasgow Central Station.
-
-From Glasgow it is easiest to follow the "By Train" instructions to reach Bute.
+<h1 id="getting-to-aislands-bute">Getting to AIslands: Bute</h1>
+<p>The conference will be held in Rothesay on the Isle of Bute (at Rothesay Discovery Centre; Victoria St, Rothesay, Isle of Bute PA20 0AP, United Kingdom).</p>
+<h2 id="by-air">By Air</h2>
+<p>The City of Glasgow is served by two international airports.</p>
+<p>Glasgow International Airport is located around 10km from the City Centre, however it is possible to reach Bute by taking a taxi from Glasgow International to <strong>Paisley Gilmour Street</strong> railway station, and then following the instructions for reaching Rothesay from Glasgow Central station (Gilmour Street is one stop along the line).</p>
+<p>Glasgow Prestwick Airport is located around 40km from Glasgow, however it is served by a direct rail connection to both <strong>Glasgow Central Station</strong> and <strong>Paisley Gilmour Street</strong>. Once at Glasgow Central or Gilmour Street you should follow the instructions below to travel to Rothesay by train.</p>
+<p>It is also possible to access the conference by travelling to Manchester Airport and taking a train from Manchester Airport to <strong>Glasgow Central Station</strong>, or from Edinburgh Airport and taking a bus to <strong>Glasgow Buchanan Bus Station</strong>. This is a 15-20 minute walk from <strong>Glasgow Central Station</strong>. Once at Glasgow Central or Gilmour Street you should follow the instructions below to travel to Rothesay by train.</p>
+<h2 id="by-train">By Train</h2>
+<p>Most trains arriving from South of Glasgow via the West Coast Mainline will arrive at <strong>Glasgow Central Station</strong>, however some trains may arrive at <strong>Glasgow Queen Street</strong> which is a 10-15 minute walk from Central Station.</p>
+<p>From Central Station you should catch a train to Wemyss Bay which will meet the ferry. A full timetable <a href="https://assets.calmac.co.uk/media/su0phlfn/stt-table-03-wem-rot.pdf">can be found here</a> for trains and the ferry times. It is possible to purchase a ticket from Scotrail which will also allow you to travel on the ferry. This can be done in advance from the Scotrail website, choosing <strong>Rothesay</strong> as the destination, or from ticket offices and ticket vending machines at Paisley or Glasgow. You do not usually need to book the ferry in advance as a foot passenger.</p>
+<h2 id="by-bus">By Bus</h2>
+<p>Glasgow is served by most intercity bus services in the UK; the vast majority of buses arrive at Buchanan Bus Station, which is a 15-20 minute walk away from Glasgow Central Station.</p>
+<p>From Glasgow it is easiest to follow the “By Train” instructions to reach Bute.</p>
 </div>
