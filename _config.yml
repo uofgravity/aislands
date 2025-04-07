@@ -26,10 +26,14 @@ baseurl: "/aislands" # the subpath of your site, e.g. /blog
 url: "uofgravity.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  uofgravity
 
+
+kramdown:
+  input: Kramdown
+  
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+#theme: minima
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
